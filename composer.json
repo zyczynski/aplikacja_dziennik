@@ -1,0 +1,9 @@
+{
+    "autoload" : {
+        "psr-4" :{
+            "Dziennik\\" : "app/Dziennik"
+        },
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    }
+}}
